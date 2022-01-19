@@ -1,4 +1,5 @@
-### Hi there 👋
+# Chikimuras
+## 💻Web Developer @ OctacomFr😊
 
 <!--
 **Chikimuras/Chikimuras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
