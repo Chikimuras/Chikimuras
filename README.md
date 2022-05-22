@@ -1,7 +1,7 @@
 
 # Chikimuras 👋
 ## 💻Web Developer
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Chikimuras/Chikimuras/blob/master/devcard.svg" width="400" alt="Chikimuras DevCard"/></a>
+![DevCard of Chikimuras](https://github.com/Chikimuras/Chikimuras/blob/master/devcard.svg)
 
 
 
