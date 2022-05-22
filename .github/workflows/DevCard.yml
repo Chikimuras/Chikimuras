@@ -1,5 +1,4 @@
-- name: @dailydotdev/devcard
-  uses: dailydotdev/action-devcard@2.0.6
+name: DevCard
 
 permissions:
   contents: write
@@ -11,12 +10,12 @@ on:
       - main
   schedule:
     - cron: "0 0 * * *"
-    
-  jobs:
+
+jobs:
   devcard:
     runs-on: ubuntu-latest
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@2.0.4
+        uses: dailydotdev/action-devcard@2.0.2
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
