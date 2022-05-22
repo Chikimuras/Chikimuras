@@ -1,6 +1,7 @@
 
 # Chikimuras 👋
-## 💻Web Developer @ [OctacomFR](https://www.octacom.fr/) ![logo](https://www.octacom.fr/images/logo.svg)
+## 💻Web Developer
+<a href="https://app.daily.dev/DailyDevTips"><img src="[https://github.com/rebelchris/rebelchris/blob/master/devcard.svg](https://github.com/Chikimuras/Chikimuras/blob/main/devcard.svg)" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 
 
