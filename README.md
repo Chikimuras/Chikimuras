@@ -1,9 +1,7 @@
 
 # Chikimuras 👋
 ## 💻Web Developer
-![DevCard of Chikimuras](https://github.com/Chikimuras/Chikimuras/blob/master/devcard.svg)
-
-
+![DevCard of Chikimuras](https://github.com/Chikimuras/Chikimuras/blob/main/devcard.svg)
 
 ## 🛠 Skills
 - React.js
