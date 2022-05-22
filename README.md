@@ -1,7 +1,7 @@
 
 # Chikimuras 👋
 ## 💻Web Developer
-<img src="[https://github.com/rebelchris/rebelchris/blob/master/devcard.svg](https://github.com/Chikimuras/Chikimuras/blob/main/devcard.svg)" width="400" alt="Chris Bongers's Dev Card"/>
+[DevCard of Chikimuras](https://github.com/rebelchris/rebelchris/blob/master/devcard.svg)
 
 
 
