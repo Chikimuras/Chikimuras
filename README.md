@@ -1,7 +1,7 @@
 
 # Chikimuras 👋
 ## 💻Web Developer
-![DevCard of Chikimuras](https://github.com/rebelchris/rebelchris/blob/master/devcard.svg)
+![DevCard of Chikimuras](https://github.com/Chikimuras/Chikimuras/blob/main/devcard.svg))
 
 
 
