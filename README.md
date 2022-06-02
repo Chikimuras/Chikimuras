@@ -1,7 +1,7 @@
 
 # Chikimuras 👋
 ## 💻Web Developer
-<img src="https://github.com/Chikimuras/Chikimuras/blob/main/devcard.svg" width="250"> A little more about me...  
+### <img src="https://github.com/Chikimuras/Chikimuras/blob/main/devcard.svg" width="250"> A little more about me...  
 
 ## 🛠 Skills
 - React.js
