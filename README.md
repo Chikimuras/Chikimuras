@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/chikimuras" target="blank"><img src="https://img.shields.io/twitter/follow/chikimuras?logo=twitter&style=for-the-badge" alt="chikimuras" /></a> </p>
 
-- 🔭 I’m currently working on **monannoncelegal.com**
+- 🔭 I’m currently working for **Actual Group**
 
-- 🌱 I’m currently learning **Laravel, VueJs & Docker**
+- 🌱 I’m currently learning **TDD**
 
 - 👯 I’m looking to collaborate on **next gen CRM & ERP**
 
 - 👨‍💻 All of my projects are available at [https://www.alexandre-velia.com](https://www.alexandre-velia.com)
 
-- 💬 Ask me about **Laravel and redwood js**
+- 💬 Ask me about **Laravel and vue js**
 
 - 📫 How to reach me **alexandre.m.velia@gmail.com**
 
