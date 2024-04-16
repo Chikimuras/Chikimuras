@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/chikimuras" target="blank"><img src="https://img.shields.io/twitter/follow/chikimuras?logo=twitter&style=for-the-badge" alt="chikimuras" /></a> </p>
 
-- 🔭 I’m currently working for **Actual Group**
+- 🔭 I’m currently working for **Leviatan**
 
-- 🌱 I’m currently learning **TDD**
+- 🌱 I’m currently learning **AI Programming**
 
-- 👯 I’m looking to collaborate on **next gen CRM & ERP**
+- 👯 I’m looking to collaborate on **next gen SaaS**
 
 - 👨‍💻 All of my projects are available at [https://www.alexandre-velia.com](https://www.alexandre-velia.com)
 
-- 💬 Ask me about **Laravel and vue js**
+- 💬 Ask me about **Laravel and VueJS**
 
-- 📫 How to reach me **alexandre.m.velia@gmail.com**
+- 📫 How to reach me **developpeur@alexandre-velia.com**
 
 - ⚡ Fun fact **I don't like bootstrap and jquery**
 
