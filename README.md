@@ -1,35 +1,163 @@
-<h1 align="center">Hi 👋, I'm Chikimuras</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+# Alexandre Velia
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chikimuras&label=Profile%20views&color=0e75b6&style=flat" alt="chikimuras" /> </p>
+**Software Engineer – Fullstack Web Developer**  
+_Savoie, France_  
+[LinkedIn – Alexandre Velia](https://www.linkedin.com/in/alexandre-velia/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chikimuras" alt="chikimuras" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/chikimuras" target="blank"><img src="https://img.shields.io/twitter/follow/chikimuras?logo=twitter&style=for-the-badge" alt="chikimuras" /></a> </p>
+## 👨‍💻 À propos de moi
 
-- 🔭 I’m currently working for **Leviatan**
+Développeur fullstack passionné depuis 2018, j’accorde une attention particulière à **l’optimisation**, au **code propre**, à la **sécurité**, et surtout à la **résolution de problèmes complexes**.
 
-- 🌱 I’m currently learning **AI Programming**
+J’aime comprendre en profondeur les technologies que j’utilise, structurer mes projets proprement, et relever des défis exigeants. Que ce soit en backend ou en frontend, je privilégie une approche rigoureuse, évolutive et maintenable.
 
-- 👯 I’m looking to collaborate on **next gen SaaS**
+Je travaille en autonomie sur des projets ambitieux, où j’assure toute la chaîne : conception, développement, DevOps, architecture logicielle, et tests.
 
-- 👨‍💻 All of my projects are available at [https://www.alexandre-velia.com](https://www.alexandre-velia.com)
+---
 
-- 💬 Ask me about **Laravel and VueJS**
+## 🛠 Stack principale
 
-- 📫 How to reach me **developpeur@alexandre-velia.com**
+### Backend
+- **Python** – FastAPI, Django, flask, Pydantic, SQLAlchemy async, Alembic
+- **PHP** – Laravel, Symfony
+- **Rust** – Développement outillage et performances
+- **Base de données** – PostgreSQL, Redis
+- **Test & Qualité** – Pytest, `ruff`, TDD, Clean Architecture
 
-- ⚡ Fun fact **I don't like bootstrap and jquery**
+### Frontend
+- **Vue 3** – Composition API, TypeScript, Vite, Pinia, TailwindCSS
+- **Validation & Sécurité** – Gestion avancée des permissions, formulaires dynamiques, SSO (Entra ID)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/chikimuras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chikimuras" height="30" width="40" /></a>
-<a href="https://dev.to/chikimuras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chikimuras" height="30" width="40" /></a>
-<a href="https://twitter.com/chikimuras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chikimuras" height="30" width="40" /></a>
-<a href="https://instagram.com/chikimuras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chikimuras" height="30" width="40" /></a>
-</p>
+### DevOps
+- **Docker** – Dockerfile multistage optimisé, Compose v2+
+- **CI/CD** – GitHub Actions, Gitlab CI
+- **Monitoring** – Intégration de Celery, Redis, outils de supervision
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chikimuras&show_icons=true&locale=en" alt="chikimuras" /></p>
+## 📌 Projets notables
+
+### 🔐 Application de gestion de rendez-vous ultra-sécurisée
+- Authentification forte (OTP, OAuth, RBAC multi-niveaux)
+- Résumé automatique des documents avec IA
+- Planification intelligente des rendez-vous
+- Stack : FastAPI, Vue 3, PostgreSQL, Redis
+
+### 🌍 Chat géolocalisé open source (en cours)
+- Système de canaux dynamiques (pays, régions, villes, rues…)
+- Architecture scalable et modulaire
+- Objectif long terme : réseau social local auto-hébergé
+
+### 🤖 Librairie d’authentification universelle
+- Support OAuth2 / SSO (Azure Entra ID)
+- Composables Vue.js (`useEntraAuth`) et backends sécurisés
+- Centralisation des stratégies d’accès (RBAC)
+
+---
+
+## 🧠 Ce qui me motive
+
+- Créer des **architectures logicielles élégantes** et **scalables**
+- Automatiser et optimiser tout ce qui peut l’être
+- Écrire un **code lisible, maintenable et testé**
+- Mieux comprendre la **complexité métier** pour concevoir des solutions durables
+
+---
+
+## 🚀 En ce moment…
+
+- Je construis une **application RAG** avec persistance avancée et streaming de réponses LLM
+- Je découvre **SwiftUI et SwiftData** en créant une app iOS autour de la biodiversité
+- Je structure mon **espace de travail Zettelkasten** avec Obsidian pour améliorer mon organisation et ma pensée
+
+---
+
+## 🤝 Me contacter
+
+📨 Via LinkedIn : [alexandre-velia](https://www.linkedin.com/in/alexandre-velia/)
+
+Je suis toujours ouvert aux projets ambitieux, freelance ou collaboratifs, où **la qualité du code et l’ingéniosité sont au cœur du développement**.
+
+---
+
+# Alexandre Velia
+
+**Software Engineer – Fullstack Web Developer**  
+_Savoy, France_  
+[LinkedIn – Alexandre Velia](https://www.linkedin.com/in/alexandre-velia/)
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate fullstack developer since 2018, driven by a deep love for **clean code**, **optimization**, and **problem solving**.
+
+I strive to understand the tools I use down to their core, to build elegant, scalable, and maintainable systems. Whether working on the backend or frontend, I care about structure, performance, and long-term readability.
+
+I work independently on ambitious projects, handling everything from architecture and development to DevOps, security, and testing.
+
+---
+
+## 🛠 Main Tech Stack
+
+### Backend
+- **Python** – FastAPI, Django, flask, Pydantic, async SQLAlchemy, Alembic
+- **PHP** – Laravel, Symfony
+- **Rust** – Tools & performance-driven modules
+- **Databases** – PostgreSQL, Redis
+- **Testing & Quality** – Pytest, `ruff`, TDD, Clean Architecture
+
+### Frontend
+- **Vue 3** – Composition API, TypeScript, Vite, Pinia, TailwindCSS
+- **Security & Forms** – Advanced permissions, adaptive form logic, SSO (Entra ID)
+
+### DevOps
+- **Docker** – Optimized multistage Dockerfiles, Compose v2+
+- **CI/CD** – GitHub Actions, GitLab CI
+- **Monitoring** – Celery, Redis, observability tools
+
+---
+
+## 📌 Notable Projects
+
+### 🔐 Ultra-Secure Appointment Manager
+- Strong auth (OAuth2, OTP, role-based access control)
+- AI-powered document summaries
+- Smart agenda scheduling
+- Stack: FastAPI, Vue 3, PostgreSQL, Redis
+
+### 🌍 Open Source Geolocated Chat (in progress)
+- Auto-generated channel system (world > continent > country > city…)
+- Modular, scalable backend architecture
+- Long-term vision: a local-first, self-hosted social platform
+
+### 🤖 Universal Auth Library
+- OAuth2 / SSO support (Azure Entra ID)
+- Vue composables (`useEntraAuth`) + secure backend flows
+- Centralized RBAC permissions management
+
+---
+
+## 🧠 What Drives Me
+
+- Building **elegant, scalable architecture**
+- Automating and optimizing everything I can
+- Writing **readable, maintainable, tested code**
+- Understanding **real-world complexity** to design long-lasting solutions
+
+---
+
+## 🚀 Currently Working On
+
+- A **RAG application** with conversation history, LLM streaming and contextual document tracing
+- Exploring **SwiftUI & SwiftData** with a biodiversity-focused iOS app
+- Organizing my personal knowledge system via **Zettelkasten in Obsidian**
+
+---
+
+## 🤝 Contact
+
+📨 Via LinkedIn: [alexandre-velia](https://www.linkedin.com/in/alexandre-velia/)
+
+I'm always open to ambitious freelance or collaborative projects where **code quality, creativity, and problem-solving are at the core**.
